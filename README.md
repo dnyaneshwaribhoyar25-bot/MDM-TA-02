@@ -1,42 +1,29 @@
 # MDM-TA-02
-YouTube Recommendation System Interface Project Title
+Meesho Home Interface UI Clone
 
-YouTube Recommendation System Interface (TA2)
+This project is a responsive front-end clone of the Meesho home interface designed to replicate the visual layout and user experience of the original application. The main objective of this project is to practice and demonstrate front-end development skills by building a clean, modern, and user-friendly interface. It includes essential UI components such as a search bar, promotional banners, product categories, and product listing sections, all structured to mimic a real-world e-commerce platform. The design follows a mobile-first approach to ensure responsiveness across different screen sizes. This project is developed using HTML, CSS, and JavaScript (add other technologies if used), focusing on layout design, styling, and basic interactivity.
+✨ Overview
 
-Project Overview
+This project recreates the Meesho home interface with a focus on simplicity, structure, and visual appeal. It is designed to mirror a real-world e-commerce layout while keeping the code clean and easy to understand.
 
-This project demonstrates a simplified interface of the video recommendation system used by YouTube. The purpose of the project is to recreate the layout where recommended videos are displayed to users based on their interests.
+From banners to product sections, every component is crafted to simulate how modern shopping apps feel and function.
 
-The interface includes key components similar to the real platform such as a navigation bar, search bar, sidebar menu, category filters, and a grid of recommended videos. Each recommended video card contains a thumbnail image, title, channel name, and view information.
+⚡ What’s Inside
 
-This project focuses mainly on the frontend design of the recommendation interface using HTML and CSS.
+• Responsive, mobile-first design
+• Search bar & promotional banners
+• Category-based product sections
+• Clean UI with structured layout
+• Smooth and minimal user experience
 
-Objectives
+🧠 Learning Goals
 
-The main objectives of this project are:
+This project helped in understanding:
+→ UI/UX design principles
+→ Responsive layouts
+→ Component structuring
+→ Real-world front-end workflow
 
-To understand how recommendation systems display results to users.
+🛠️ Built With
 
-To design a user-friendly video recommendation interface.
-
-To replicate the basic layout of the YouTube homepage.
-
-To demonstrate the visual structure of recommended content.
-
-Features
-
-The system includes several features similar to the real recommendation interface:
-
-Dark theme layout similar to YouTube
-
-Navigation header with search functionality
-
-Sidebar menu for quick navigation
-
-Category filter buttons
-
-Video recommendation cards
-
-Video thumbnails
-
-Video titles and channel information
+HTML • CSS • JavaScript
